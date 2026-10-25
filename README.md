@@ -1,13 +1,18 @@
 # Home Atmospheres
 
-Four calm Home Assistant dashboard themes with custom gradient wallpapers and coordinated light and dark palettes:
+Seven Home Assistant dashboard themes with custom gradient wallpapers and coordinated light and dark palettes:
 
 - **Aurora Drift** — northern-light greens and midnight blues.
+- **Botanical Calm** — leafy greens and warm, natural neutrals.
 - **Golden Hour** — warm amber, coral, and soft dusk.
+- **Mono Studio** — a minimal, low-distraction grayscale palette.
+- **Neon Arcade** — vivid violet and teal with a playful retro glow.
 - **Rainy Window** — misty blue-grey for a quiet, overcast feel.
 - **Quiet Horizon** — the original teal, blue, and peach palette.
 
 ![Palette previews of Aurora Drift, Golden Hour, and Rainy Window](docs/preview-atmospheres.svg)
+
+![Palette previews of Botanical Calm, Mono Studio, and Neon Arcade](docs/preview-new-themes.svg)
 
 These are palette mockups, not screenshots captured from Home Assistant. The wallpapers use CSS gradients only: no remote images, custom cards, extra frontend plugins, or network requests.
 
@@ -15,7 +20,7 @@ These are palette mockups, not screenshots captured from Home Assistant. The wal
 
 1. In HACS, open **Frontend** and search for **Home Atmospheres**.
 2. Download the theme and restart Home Assistant, or reload themes from **Developer tools → Actions** using `frontend.reload_themes`.
-3. Open your user profile, choose **Aurora Drift**, **Golden Hour**, **Rainy Window**, or **Quiet Horizon**, and select the light, dark, or system appearance.
+3. Open your user profile, choose one of the seven themes, and select the light, dark, or system appearance.
 
 If the themes do not appear, make sure your `configuration.yaml` includes:
 
@@ -34,10 +39,13 @@ The themes use standard Home Assistant frontend variables and the built-in `mode
 
 ## Nederlands
 
-Vier rustige Home Assistant-dashboardthema's met kleurverlopende achtergronden en bijpassende lichte en donkere kleuren:
+Zeven Home Assistant-dashboardthema's met kleurverlopende achtergronden en bijpassende lichte en donkere kleuren:
 
 - **Aurora Drift** — noorderlichtgroen en nachtblauw.
+- **Botanical Calm** — bladgroen en warme, natuurlijke neutrale tinten.
 - **Golden Hour** — warm amber, koraal en zachte avondkleuren.
+- **Mono Studio** — een minimalistisch grijstintenpalet dat weinig afleidt.
+- **Neon Arcade** — levendig violet en teal met een speelse retro-uitstraling.
 - **Rainy Window** — mistig blauwgrijs voor een rustige, bewolkte sfeer.
 - **Quiet Horizon** — het originele palet van teal, blauw en perzik.
 
@@ -47,7 +55,7 @@ De afbeelding hierboven toont kleurimpressies, geen schermafbeeldingen van Home 
 
 1. Open in HACS **Frontend** en zoek naar **Home Atmospheres**.
 2. Download het thema en herstart Home Assistant, of laad thema's opnieuw via **Ontwikkelaarstools → Acties** met `frontend.reload_themes`.
-3. Open je gebruikersprofiel, kies **Aurora Drift**, **Golden Hour**, **Rainy Window** of **Quiet Horizon**, en selecteer de lichte, donkere of systeemweergave.
+3. Open je gebruikersprofiel, kies een van de zeven thema's en selecteer de lichte, donkere of systeemweergave.
 
 Verschijnen de thema's niet? Controleer dan of `configuration.yaml` deze configuratie bevat:
 

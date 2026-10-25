@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">New Home Atmospheres theme previews</title>
+  <desc id="desc">Three dashboard palette mockups: Botanical Calm, Mono Studio, and Neon Arcade.</desc>
+  <defs>
+    <linearGradient id="botanical" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f0dc"/><stop offset=".52" stop-color="#e7ecdf"/><stop offset="1" stop-color="#f2ecdd"/></linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".52" stop-color="#e9e9e7"/><stop offset="1" stop-color="#f5f5f3"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efe3fb"/><stop offset=".52" stop-color="#e3eef7"/><stop offset="1" stop-color="#f8e2f0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="#f5f7f8"/>
+  <g font-family="Arial,sans-serif">
+    <g transform="translate(24 24)">
+      <rect width="368" height="412" rx="22" fill="url(#botanical)"/>
+      <circle cx="69" cy="54" r="82" fill="#9bb87c" opacity=".28"/>
+      <circle cx="310" cy="70" r="88" fill="#cfb17b" opacity=".21"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#52765a">BOTANICAL CALM</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#303c31">A little greener</text>
+      <text x="28" y="143" font-size="16" fill="#637260">Leafy green · natural warmth</text>
+      <rect x="28" y="184" width="312" height="88" rx="18" fill="#fff" opacity=".76"/>
+      <rect x="28" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".7"/>
+      <rect x="192" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".7"/>
+      <circle cx="60" cy="218" r="10" fill="#7b9c68"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#52765a" opacity=".7"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#637260" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#637260">LIGHT</text><text x="209" y="333" font-size="14" fill="#637260">DARK</text>
+    </g>
+    <g transform="translate(416 24)">
+      <rect width="368" height="412" rx="22" fill="url(#mono)"/>
+      <circle cx="72" cy="62" r="86" fill="#fff" opacity=".88"/>
+      <circle cx="310" cy="62" r="88" fill="#777" opacity=".09"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#424242">MONO STUDIO</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#222">Less, but clear</text>
+      <text x="28" y="143" font-size="16" fill="#666">Pure grayscale · quiet focus</text>
+      <rect x="28" y="184" width="312" height="88" rx="12" fill="#fff" opacity=".9"/>
+      <rect x="28" y="292" width="148" height="86" rx="12" fill="#fff" opacity=".82"/>
+      <rect x="192" y="292" width="148" height="86" rx="12" fill="#fff" opacity=".82"/>
+      <circle cx="60" cy="218" r="10" fill="#777"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#424242" opacity=".7"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#666" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#666">LIGHT</text><text x="209" y="333" font-size="14" fill="#666">DARK</text>
+    </g>
+    <g transform="translate(808 24)">
+      <rect width="368" height="412" rx="22" fill="url(#neon)"/>
+      <circle cx="70" cy="60" r="84" fill="#d271e1" opacity=".25"/>
+      <circle cx="308" cy="64" r="88" fill="#43d0c2" opacity=".25"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#7046b8">NEON ARCADE</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#302344">Game on</text>
+      <text x="28" y="143" font-size="16" fill="#68577e">Electric violet · bright teal</text>
+      <rect x="28" y="184" width="312" height="88" rx="16" fill="#fff" opacity=".8"/>
+      <rect x="28" y="292" width="148" height="86" rx="16" fill="#fff" opacity=".72"/>
+      <rect x="192" y="292" width="148" height="86" rx="16" fill="#fff" opacity=".72"/>
+      <circle cx="60" cy="218" r="10" fill="#00a9a0"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#7046b8" opacity=".75"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#68577e" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#68577e">LIGHT</text><text x="209" y="333" font-size="14" fill="#68577e">DARK</text>
+    </g>
+  </g>
+</svg>
